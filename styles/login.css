@@ -1,0 +1,88 @@
+#login {
+    margin: -50px 0px 200px 500px;
+    position: absolute;
+    left: 400px;
+    background: rgba(255, 255, 255, 0.4);
+    border: 2px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 500px;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 59px;
+    color: #FFFFFF;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+#password{
+    margin-top: 10px;
+}
+
+input{
+   mix-blend-mode: normal;
+   height: 30px;
+   width: 275px;
+   margin: 0px 55px 0px 55px;
+}
+
+#espaco1{
+    margin: 0px 20px 0px 0px;
+}
+
+#espaco2{
+    margin: 0px 0px 0px 20px;
+}
+
+button{
+    mix-blend-mode: normal;
+    height: 35px;
+    width: 280px;
+    margin: 20px 55px 0px 55px;
+    background: rgb(32, 116, 6);
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #FFFFFF;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
+button:hover{
+    background: rgb(15, 95, 4);
+}
+
+#user{
+    margin-left: 10px;
+    height: 40px;
+    width: 40px;
+}
+
+#hero-image {
+    margin: 120px 0px -390px 200px;
+    width: 560px;
+    height: 560px;
+}
+
+html{
+    background-color: #050822;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6{
+    margin-bottom: 50px;
+}
+
+#login-image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
